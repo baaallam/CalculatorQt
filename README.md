@@ -15,3 +15,23 @@ cd build
 cmake ..
 make
 ./CalculatorQt
+
+**Tech**
+C++
+Qt Widgets
+CMake
+
+**Author**
+Khadija Baaalla
+
+---
+
+# 🚀 How to run (Mac)
+
+```bash
+brew install qt
+cmake .
+make
+./CalculatorQt
+
+
