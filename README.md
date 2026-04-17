@@ -1,37 +1,28 @@
-# 🍎 Qt Calculator (C++)
+# **🍎 Qt Calculator (C++)**
 
-A modern Apple-style calculator built with Qt and C++.
+A modern Apple-style calculator built using C++ and Qt Widgets.
+This project demonstrates GUI development, event handling, and modern UI design principles.
 
-## Features
-- Basic operations (+ - × ÷)
-- Clean Apple-inspired UI
-- Dark mode design
-- Responsive layout
+## **✨ Features**
 
-## Build
-```bash
-mkdir build
-cd build
-cmake ..
-make
-./CalculatorQt
-
-**Tech**
+➕ Basic arithmetic operations (+ − × ÷)
+🍏 Apple-inspired clean UI design
+🌙 Dark mode interface
+📱 Responsive and modern layout
+🖱️ Interactive button controls
+## **💻 Tech Stack**
 C++
-Qt Widgets
+Qt
 CMake
+## **👩‍💻 Author**
 
-**Author**
 Khadija Baaalla
 
----
-
-# 🚀 How to run (Mac)
-
+## **⚙️ Build Instructions**
 ```bash
-brew install qt
-cmake .
-make
-./CalculatorQt
-
+ mkdir build
+ cd build
+ cmake ..
+ make
+ ./CalculatorQt
 
